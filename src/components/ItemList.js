@@ -1,7 +1,7 @@
 import React from "react";
 import SkinList from "./SkinList"
 import ShirtList from "./ShirtList"
-import "../ItemList.css";
+import "../css/ItemList.css";
 
 function ItemList() {
     return (

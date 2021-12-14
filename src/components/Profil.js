@@ -1,5 +1,5 @@
 import React from "react";
-import "../Profil.css";
+import "../css/Profil.css";
 import AvatarList from "./AvatarList"
 
 import ItemList from "./ItemList";

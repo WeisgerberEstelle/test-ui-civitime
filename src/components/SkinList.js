@@ -1,5 +1,5 @@
 import React from "react";
-import "../ItemList.css";
+import "../css/ItemList.css";
 import skin from "../assets/skin.svg";
 import color1 from "../assets/color-FCD7B8.svg";
 import color2 from "../assets/color-E0A39A.svg"

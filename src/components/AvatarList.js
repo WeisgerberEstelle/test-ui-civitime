@@ -1,5 +1,5 @@
 import React from "react";
-import "../AvatarList.css";
+import "../css/AvatarList.css";
 import woman from '../assets/woman.svg';
 import man from '../assets/man.svg';
 import Avatar from "./Avatar"
