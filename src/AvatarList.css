@@ -1,0 +1,12 @@
+h3 {
+    text-align : center;
+    font-weight: normal;
+    font-size  : 18px;
+}
+
+.container-avatar {
+    display        : flex;
+    justify-content: center;
+    gap            : 35px;
+    margin-inline: 10px;
+}

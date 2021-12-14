@@ -1,0 +1,39 @@
+.container-profil {
+    max-width:800px;
+    width:90vw;
+    border: blueviolet 3px solid;
+    height: auto;
+    min-height: 500px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;    
+}
+
+.container-avatar-choice {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:20px;
+}
+
+button {
+    border:none;
+    width: 130px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    border-radius: 30px;
+    box-shadow: 3px 3px 3px darkgray;
+    margin-bottom: 20px;
+}
+
+h2 {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin: 0;
+    padding:5px;
+    font-size: 20px;
+    }

@@ -1,0 +1,15 @@
+.container-items{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    border-top: black 1px solid;
+    width: 300px;
+    padding: 15px;
+    margin-top: 30px;
+    }
+.container-skin-list, .container-shirt-list {
+    display        : flex;
+    justify-content: center;
+    gap            : 10px;
+    
+}
